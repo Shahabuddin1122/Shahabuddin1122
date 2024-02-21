@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [https://jade-lebkuchen-adca35.netlify.app/](https://jade-lebkuchen-adca35.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://shahabuddinakhon.netlify.app/](https://shahabuddinakhon.netlify.app/)
 
 - 📫 How to reach me **shavoddin54@gmail.com**
 
