@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Spring-boot**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Flutter**
 
 - 👨‍💻 All of my projects are available at [https://shahabuddinakhon.netlify.app/](https://shahabuddinakhon.netlify.app/)
 
