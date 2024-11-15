@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Flutter**
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **C#**
 
 - 👨‍💻 All of my projects are available at [https://shahabuddinakhon.netlify.app/](https://shahabuddinakhon.netlify.app/)
 
